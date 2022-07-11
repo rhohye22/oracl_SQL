@@ -1,0 +1,2 @@
+# oracl_SQL
+study
